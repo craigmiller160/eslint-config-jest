@@ -13,7 +13,8 @@
     ".eslintrc.js"
   ],
   "peerDependencies": {
-    "eslint": "^8.5.0"
+    "eslint": "^8.5.0",
+    "jest": "^27.4.5"
   },
   "dependencies": {
     "eslint-plugin-jest": "^25.3.2"
