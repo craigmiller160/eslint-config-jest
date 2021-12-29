@@ -11,5 +11,11 @@
   },
   "files": [
     ".eslintrc.js"
-  ]
+  ],
+  "peerDependencies": {
+    "eslint": "^8.5.0"
+  },
+  "dependencies": {
+    "eslint-plugin-jest": "^25.3.2"
+  }
 }
