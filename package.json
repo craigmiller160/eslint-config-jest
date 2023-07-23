@@ -1,6 +1,6 @@
 {
   "name": "@craigmiller160/eslint-config-jest",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": ".eslintrc.js",
   "author": "craigmiller160",
   "publishConfig": {
